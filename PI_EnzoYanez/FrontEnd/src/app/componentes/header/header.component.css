@@ -1,0 +1,47 @@
+.cabecera{
+    background-color: #260707;
+    /*background-color: #592020;*/
+}
+.container{
+    
+
+    margin: 0 auto;
+    display: flex;
+    padding: 16px 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+#logoArgImg {
+   
+    width: 150px;
+  
+}
+.rrssBtns{
+    float: right;
+    /*font-size: 0;*/
+    display: flex;
+
+    
+}
+.rrssBtns img{
+        width: 35px;
+        
+              
+}
+/*ul {
+   
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}*/
+li {
+    
+    list-style: none;
+    margin: 1px;
+    /*text-align: start;*/
+    
+    
+}
